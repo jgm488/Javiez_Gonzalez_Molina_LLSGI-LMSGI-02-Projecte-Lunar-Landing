@@ -5,7 +5,7 @@
 >Con el apartado "Respectar, en essència, la idea original del Storyboard", no se si lo he entendido bien. Lo que yo entiendo es que nos tenemos que ceñir al dibujo presentado en la tarea.
 >Con el apartado "Versió optimitzada reduïda a la mínima expressió (minify)", entiendo que hay que optimizar la web para que pese lo menos posible. Tampoco estoy seguro de esto.
 
-*Despues de esto:
+* Despues de esto:
 
 
 1. La web la he creado en base al dibujo que hay presentado en la tarea.
