@@ -15,6 +15,7 @@
   5. En el panel de control de control he creado una tabla para que quedara correctamente alineado, con diferentes valores del juego.
   6. En las opciones de juego hay un "acerda de" e "instrucciones", me gustaria poner un <button> Pause </button> en la siguiente parte de la tarea.
   7. Tanto las "intrucciones" como el "acerca de" son dos paginas completamente sin estilo, dado que no se si era necesario.
+  8. Para entregar el trabajo en github he puesto los HTML en el master y he creado dos ramas, 1 como si fuese la carpeta img y la he llamado igual y la otra se llama css , como si fuese la carpeta css y colgando los archivos de dicha rama. No estoy seguro de si se hace así.
 
 
 
