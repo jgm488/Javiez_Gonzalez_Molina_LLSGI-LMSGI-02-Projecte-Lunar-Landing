@@ -8,13 +8,13 @@
 * Despues de esto:
 
 
-1. La web la he creado en base al dibujo que hay presentado en la tarea.
-2. El suelo de la luna es una imagen cojida de internet y recortada para darle formas dificiles de aterrizajes que coji la idea del mismo juego creado en otra web.
-3. El fondo esta creado en Paint con un fondo negro y diferentes tamaños de puntos simulando las estrellas, asi como la nave también  ha sido dibujada por mi.
-4. En cuanto a los estilos css, he intendado hacer todo lo que he comprendido de la tarea, teniendo dificultades para hacer la versión de movil.
-5. En el panel de control de control he creado una tabla para que quedara correctamente alineado, con diferentes valores del juego.
-6. En las opciones de juego hay un "acerda de" e "instrucciones", me gustaria poner un <button> Pause </button> en la siguiente parte de la tarea.
-7. Tanto las "intrucciones" como el "acerca de" son dos paginas completamente sin estilo, dado que no se si era necesario.
+  1. La web la he creado en base al dibujo que hay presentado en la tarea.
+  2. El suelo de la luna es una imagen cojida de internet y recortada para darle formas dificiles de aterrizajes que coji la idea del mismo juego creado en otra web.
+  3. El fondo esta creado en Paint con un fondo negro y diferentes tamaños de puntos simulando las estrellas, asi como la nave también  ha sido dibujada por mi.
+  4. En cuanto a los estilos css, he intendado hacer todo lo que he comprendido de la tarea, teniendo dificultades para hacer la versión de movil.
+  5. En el panel de control de control he creado una tabla para que quedara correctamente alineado, con diferentes valores del juego.
+  6. En las opciones de juego hay un "acerda de" e "instrucciones", me gustaria poner un <button> Pause </button> en la siguiente parte de la tarea.
+  7. Tanto las "intrucciones" como el "acerca de" son dos paginas completamente sin estilo, dado que no se si era necesario.
 
 
 
