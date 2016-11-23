@@ -1,10 +1,9 @@
 # Javiez_Gonzalez_Molina_LLSGI-LMSGI-02-Projecte-Lunar-Landing
->No se si he hecho lo que pides. Ya que en la tarea hay cosas que no entiendo. No lo he puesto en el foro, ya que lo han preguntado 
->y la contestación no me ha aclarado las dudas.
->La versión adaptada a moviles, yo he conseguido que funcione en el emulador de opera. pero si me paso la web entera a mi movil, me >sigue >salido sin estilo, no entiendo el porque.
+>No se si he hecho lo que pides. Ya que en la tarea hay cosas que no entiendo. No lo he puesto en el foro, ya que lo han preguntado y la contestación no me ha aclarado las dudas.
+>La versión adaptada a moviles, yo he conseguido que funcione en el emulador de opera. pero si me paso la web entera a mi movil, me sigue salido sin estilo, no entiendo el porque.
 >Tampoco se si lo que pides es que se gire automáticamente en la version de movil-tablet.
->Con el apartado "Respectar, en essència, la idea original del Storyboard", no se si lo he entendido bien. Lo que yo entiendo es que >nos >tenemos que ceñir al dibujo presentado en la tarea.
->Con el apartado "Versió optimitzada reduïda a la mínima expressió (minify)", entiendo que hay que optimizar la web para que pese lo >menos posible. Tampoco estoy seguro de esto.
+>Con el apartado "Respectar, en essència, la idea original del Storyboard", no se si lo he entendido bien. Lo que yo entiendo es que nos tenemos que ceñir al dibujo presentado en la tarea.
+>Con el apartado "Versió optimitzada reduïda a la mínima expressió (minify)", entiendo que hay que optimizar la web para que pese lo menos posible. Tampoco estoy seguro de esto.
 
 *Despues de esto:
 
